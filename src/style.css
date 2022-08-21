@@ -1,0 +1,22 @@
+.container {
+  background-color: black;
+  color: green;
+  height: 500px;
+}
+
+.header {
+  text-align: center;
+  color: red;
+}
+
+.paragraph {
+  font-size: larger;
+  margin-left: 5rem;
+}
+
+.list {
+  text-decoration: underline;
+}
+.list-item:nth-child(2) {
+  color: lightblue;
+}
